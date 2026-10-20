@@ -24,10 +24,10 @@ Proyek ini mengimplementasikan metode **kendali PID** untuk mengatur daya pemana
 ## 🛠️ Perangkat Keras & Komponen (Hardware)
 
 - **Mikrokontroler:** Arduino Uno
-- **Sensor Suhu:** Sensor Suhu Presisi (DS18B20 / DHT22)
-- **Aktuator Pemanas:** Lampu Bohlam (Incandescent Lamp)
-- **Aktuator Pembuang Panas:** DC Blower / Exhaust Fan
-- **Driver Aktuator:** Modul Relay / AC Dimmer Module
+- **Sensor Suhu:** Sensor Suhu Presisi (DHT22)
+- **Aktuator Pemanas:** Lampu Bohlam 
+- **Aktuator Pembuang Panas:** 12V DC Fan
+- **Driver Aktuator:** Modul Relay 
 - **Catu Daya:** Power Supply 12V / 5V
 
 ---
